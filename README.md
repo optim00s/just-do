@@ -21,4 +21,4 @@ and
 ```bash
 npm run dev
 ```
-for db & auth you have to setup supabase project
+for db & auth you have to setup supabase project and google cloud (OAuth 2.0 Client IDs)
